@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://211.95.45.110:43306/dolook?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =actiz1512
+devMode = true
