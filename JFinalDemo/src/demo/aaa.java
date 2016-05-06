@@ -14,6 +14,6 @@ public class aaa extends Handler {
 	}
 
 	public void aa() {
-
+		System.out.println();
 	}
 }
