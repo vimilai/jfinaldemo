@@ -9,7 +9,6 @@ public class aaa extends Handler {
 
 	@Override
 	public void handle(String target, HttpServletRequest request, HttpServletResponse response, boolean[] isHandled) {
-	System.out.println();
 
 	}
 
