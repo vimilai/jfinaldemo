@@ -17,7 +17,7 @@ public class HelloController extends Controller {
 		System.out.println(users);
 		String v=getPara("v1");
 		System.out.println(v);
-		setAttr("v", 1);
+		setAttr("sdsasasdasdsv", 1);
 		renderJsp("/111.jsp");
 	}
 }
